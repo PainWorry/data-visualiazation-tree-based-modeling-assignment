@@ -24,6 +24,7 @@ Hi there! This guide will help you complete your assignment smoothly. I've prepa
         launch_notebook.bat
         ```
     *   A web page should open. Click on `assignment_solution.ipynb`.
+    *   If it doesn't open, try double-clicking the file.
 
 2.  **Run the Code**:
     *   In the notebook, you'll see cells with code.
