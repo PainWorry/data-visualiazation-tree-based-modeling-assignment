@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+jupyter_runtime/
+jupyter_cookie_secret
+*.html
+*.json
+
+# Temporary Files
+~$*
+
+# VS Code
+.vscode/
+
+# PDFs (if you want to keep them local but not on git)
+*.pdf
+*.opdownload
